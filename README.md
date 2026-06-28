@@ -1,6 +1,6 @@
 [LTP_Platform_README.md](https://github.com/user-attachments/files/29438068/LTP_Platform_README.md)
 # Learning Through Play — Interactive Training Platform
-## SPMO · Addis Ababa City Administration · 2024
+## SPMO · Addis Ababa City Administration · 2026
 
 A complete, self-contained web-based training platform for the Learning Through Play playwork qualification programme. Zero server required — runs from a single HTML file.
 
